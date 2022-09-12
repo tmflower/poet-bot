@@ -2,7 +2,7 @@
   "name": "poetbot",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://tmflower.github.io",
+  "homepage": "https://tmflower.github.io/poet-bot",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
